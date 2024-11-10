@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rpleg/Desktop/CharacterWalking/CharacterWalking/CharacterWalking/Content/Layout_BuiltData.uasset",
+				"C:/Users/benja/Documents/Unreal Projects/CharacterWalking/Content/5shots.umap",
+				"C:/Users/benja/Documents/Unreal Projects/CharacterWalking/Content/Sequencer.uasset",
+				"C:/Users/benja/Documents/Unreal Projects/CharacterWalking/Content/Materials/water.uasset",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/Main.umap",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/Materials/water.uasset",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/Materials/ice.uasset",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/Materials/eyes.uasset",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/Materials/beak.uasset",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/Materials/waddles.uasset",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/Materials/waddles1.uasset",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/Layout_BuiltData.uasset",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/Layout.umap",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/Sequencer.uasset",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/Materials/bear.uasset",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/Megascans/Surfaces/Animal_Fur_pchg1gp0/MI_Animal_Fur_pchg1gp0_4K.uasset",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/Megascans/3D_Assets/Clay_Toy_Bear_ugikfczhw/MI_Clay_Toy_Bear_ugikfczhw_4K.uasset",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/Pending_MoviePipelinePrimaryConfig.uasset",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/CharMap.umap",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/Main_BuiltData.uasset",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/Megascans/white.uasset",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/Megascans/water.uasset",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/Megascans/ice.uasset",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/Megascans/Materials/water.uasset",
+				"C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Content/Megascans/Materials/ice.uasset"
+			]
+		}
+	]
+}

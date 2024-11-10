@@ -1,0 +1,6 @@
+2024/09/08-23:09:59.156 33c0 Creating DB C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/09/08-23:09:59.161 33c0 Reusing MANIFEST C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/08-23:12:55.467 3fa8 Level-0 table #5: started
+2024/09/08-23:12:55.477 3fa8 Level-0 table #5: 1167 bytes OK
+2024/09/08-23:12:55.478 3fa8 Delete type=0 #3
+2024/09/08-23:12:55.478 3fa8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
