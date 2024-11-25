@@ -1,0 +1,13 @@
+# Unreal Engine build folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
