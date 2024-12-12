@@ -1,6 +1,2 @@
-2024/09/09-16:32:03.715 4b54 Reusing MANIFEST C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/09/09-16:32:03.725 4b54 Recovering log #3
-2024/09/09-16:32:03.726 4b54 Reusing old log C:/Users/benja/OneDrive/Documentos/Unreal Projects/CharacterWalking/Saved/webcache_4430\Local Storage\leveldb/000003.log 
-2024/09/09-16:35:12.694 81ac Level-0 table #5: started
-2024/09/09-16:35:12.702 81ac Level-0 table #5: 16864 bytes OK
-2024/09/09-16:35:12.705 81ac Delete type=0 #3
+2024/12/11-17:57:05.387 6b7c Creating DB C:/Users/benja/Documents/GitHub/CharacterWalking/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2024/12/11-17:57:05.399 6b7c Reusing MANIFEST C:/Users/benja/Documents/GitHub/CharacterWalking/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
